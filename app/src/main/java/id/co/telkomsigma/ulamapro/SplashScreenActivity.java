@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
 
+import id.co.telkomsigma.ulamapro.Activity.HomeActivity;
+
 
 public class SplashScreenActivity extends AppCompatActivity {
 

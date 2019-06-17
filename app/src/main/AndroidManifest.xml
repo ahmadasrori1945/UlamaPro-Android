@@ -40,7 +40,7 @@
             android:label="Kotak Amal"
             android:theme="@style/AppTheme" />
         <activity
-            android:name=".HomeActivity"
+            android:name=".Activity.HomeActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Absen_santriActivity"
@@ -75,7 +75,7 @@
             android:label="Kiblat"
             android:theme="@style/AppTheme" />
         <activity
-            android:name=".Waktu_sholatActivity"
+            android:name=".Activity.Waktu_sholatActivity"
             android:label="Waktu Sholat"
             android:theme="@style/AppTheme" />
         <activity

@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:weightSum="2"
-    tools:context=".HomeActivity">
+    tools:context=".Activity.HomeActivity">
 
 
     <LinearLayout
@@ -194,7 +194,7 @@
                     android:layout_height="match_parent"
                     android:gravity="center"
                     android:text=""
-                    android:textColor="#fff"
+                    android:textColor="#000"
                     android:textSize="22sp" />
             </LinearLayout>
 
@@ -218,26 +218,28 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:gravity="bottom|center"
-                        android:text="-"
+                        android:text="Jadwal Sholat"
                         android:textColor="#fff"
-                        android:textSize="16sp" />
+                        android:visibility="invisible"
+                        android:textSize="20sp" />
                 </LinearLayout>
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="horizontal"
+                    android:layout_weight="1"
                     android:paddingTop="2dp">
 
                     <TextView
                         android:id="@+id/waktu_solat"
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
+                        android:layout_height="92dp"
                         android:gravity="top|center"
-                        android:text="-"
+                        android:text="Waktu Sholat"
+                        android:visibility="invisible"
                         android:textColor="#fff"
-                        android:textSize="16sp" />
+                        android:textSize="20sp" />
                 </LinearLayout>
             </LinearLayout>
 

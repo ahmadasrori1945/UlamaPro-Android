@@ -6,22 +6,27 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="decda38c-8719-432a-a119-272d3a62f56c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Git Baru.iml" afterDir="false" />
+    <list default="true" id="decda38c-8719-432a-a119-272d3a62f56c" name="Default Changelist" comment="mzm - ubah tampilan tahlil">
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_tahlil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_tahlil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/TahlilActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/TahlilActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tahlil.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tahlil.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulamapro-develop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Absen_santriActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Absen_santriActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/SplashScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/SplashScreenActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Waktu_sholatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/Waktu_sholatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list_isi_alquran.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_list_isi_alquran.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,73 +61,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="17">
+              <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/TahlilActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/HomeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sholawat.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="8" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tahlil.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="101">
+              <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_sholawat.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="45" column="6" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="45" selection-end-column="6" />
+            <state relative-caret-position="211">
+              <caret line="375" column="37" selection-start-line="375" selection-start-column="37" selection-end-line="375" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_tahlil.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/adapter/Adapter_quran.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="116">
+              <caret line="66" column="64" selection-start-line="66" selection-start-column="64" selection-end-line="66" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/SholawatActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/IsiQuranActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="60" column="20" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="60" selection-end-column="20" />
+            <state relative-caret-position="293">
+              <caret line="142" column="54" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/IsiSholawatActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/Waktu_sholatActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -206,13 +192,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/IsiQuranActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_isiquran.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/adapter/Adapter_quran.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/UserSessionManager.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/HomeActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tahlil_listitem.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tahlil_listgroup.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_isiquran.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/model/ModelIsiQuran.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/IsiQuranActivity.java" />
@@ -222,6 +204,14 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_tahlil.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/TahlilActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_tahlil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/UserSessionManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_list_isi_alquran.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Waktu_sholatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/Waktu_sholatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
       </list>
     </option>
   </component>
@@ -262,6 +252,13 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="ulamapro" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git Baru" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ulamapro" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="adapter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -276,26 +273,26 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="J9AXGF027448EYA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Telegram Desktop/NUConnectAndroid" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1560745390037" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.packageName">
-      <recent name="id.co.telkomsigma.ulamapro" />
-      <recent name="id.co.telkomsigma.ulamapro.kiblat" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="id.co.telkomsigma.ulamapro.Activity" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Sigma\android\ulamapro\app\src\main\res\drawable" />
+    <key name="android.template.packageName">
+      <recent name="id.co.telkomsigma.ulamapro" />
+      <recent name="id.co.telkomsigma.ulamapro.kiblat" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="id.co.telkomsigma.ulamapro.kiblat" />
       <recent name="com" />
       <recent name="id.co.telkomsigma.ulamapro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Sigma\android\ulamapro\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -479,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560745708517</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mzm - ubah tampilan tahlil">
+      <created>1560748213603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560748213605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -501,9 +505,9 @@
       <window_info anchor="bottom" id="Find" order="3" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.2927383" side_tool="true" weight="0.31914893" />
-      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" weight="0.3289689" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49924356" visible="true" weight="0.1603928" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.70726174" weight="0.2913257" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49924356" weight="0.1603928" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.70726174" visible="true" weight="0.41898528" />
       <window_info anchor="bottom" id="Debug" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="11" weight="0.3289689" />
@@ -602,7 +606,8 @@
     <MESSAGE value="get data surah alquran" />
     <MESSAGE value="fix error network androoid pie" />
     <MESSAGE value="mzm - git" />
-    <option name="LAST_COMMIT_MESSAGE" value="mzm - git" />
+    <MESSAGE value="mzm - ubah tampilan tahlil" />
+    <option name="LAST_COMMIT_MESSAGE" value="mzm - ubah tampilan tahlil" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -623,17 +628,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/graphics/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/NotifikasiActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -759,24 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Waktu_sholatActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/UserSessionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
-          <folding>
-            <element signature="e#3549#3550#0" expanded="true" />
-            <element signature="e#3599#3600#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/model/ModelQuran.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -792,14 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="368" column="16" selection-start-line="368" selection-start-column="16" selection-end-line="368" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -827,25 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_quran.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/IsiTahlilActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/adapter/Adapter_quran.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -856,42 +809,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_isi_alquran.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/model/ModelIsiQuran.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/adapter/Adapter_isiquran.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="78" selection-start-line="36" selection-start-column="78" selection-end-line="36" selection-end-column="78" />
-          <folding>
-            <element signature="e#1285#1286#0" expanded="true" />
-            <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/IsiQuranActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="142" column="54" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
-          <folding>
-            <element signature="e#6144#6145#0" expanded="true" />
-            <element signature="e#6226#6227#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,13 +825,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/HomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
@@ -920,10 +834,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/network_security_police.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_isisholawat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -934,18 +848,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/SholawatActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_tahlil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="60" column="20" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="60" selection-end-column="20" />
+        <state relative-caret-position="204">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sholawat.xml">
-      <provider editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_sholawat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="8" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="289">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -957,6 +870,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sholawat.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="8" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/TahlilActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -964,24 +885,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_isisholawat.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_jadwal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_tahlil.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_quran.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Adapter_sholawat.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_isi_alquran.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="45" column="6" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="45" selection-end-column="6" />
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/adapter/Adapter_isiquran.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/SholawatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e324175a54562c56cfc8bfeaa7168007/jars/classes.jar!/android/support/v4/app/FragmentManagerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="1145" selection-start-line="1145" selection-end-line="1145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/UserSessionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/adapter/Adapter_quran.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="66" column="64" selection-start-line="66" selection-start-column="64" selection-end-line="66" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/IsiQuranActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="142" column="54" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/QuranActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/id/co/telkomsigma/ulamapro/Activity/Waktu_sholatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="375" column="37" selection-start-line="375" selection-start-column="37" selection-end-line="375" selection-end-column="37" />
         </state>
       </provider>
     </entry>

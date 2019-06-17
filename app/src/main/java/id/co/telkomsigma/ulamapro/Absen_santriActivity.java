@@ -12,8 +12,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-
-
+import id.co.telkomsigma.ulamapro.Activity.HomeActivity;
 
 
 public class Absen_santriActivity extends AppCompatActivity {
