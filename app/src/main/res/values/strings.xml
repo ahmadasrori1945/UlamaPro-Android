@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ulama Pro</string>
+    <string name="error_invalid_password">Password to short</string>
+    <string name="error_invalid_email">wrong email</string>
+    <string name="error_field_required">this field required</string>
+    <string name="gps_settings_title">QIBLA</string>
+    <string name="gps_settings_text">arah kiblat</string>
+    <string name="settings_button_ok">success</string>
+    <string name="settings_button_cancel">failed</string>
+    <string name="msg_permission_not_granted_yet">Permission not granted</string>
+    <string name="your_location">Your Location</string>
+    <string name="using_last_location">Last Location</string>
+    <string name="msg_permission_granted">Permission Granted</string>
+    <string name="toast_permission_required">Permission Required</string>
+    <string name="location_not_ready">Your location is not ready</string>
+    <string name="qibla_direction">KIBLAT</string>
+    <string name="pls_enable_location">Enable Your GPS !</string>
+    <string name="compass_hands">compas_hands</string>
+    <string name="degree_from_north">degree_from_north</string>
+</resources>

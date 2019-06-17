@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="id.co.telkomsigma.ulamapro">
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ulamapro"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ulamapro"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".KIblatWebActivity"></activity>
+        <!-- <activity android:name=".SholawatActivity"></activity> -->
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Absen_dosenActivity"
+            android:label="Kotak Amal"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".HomeActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Absen_santriActivity"
+            android:label="Absensi Santri"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AsmaulhusnaActivity"
+            android:label="Asmaul Husna"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SholawatActivity"
+            android:label="Sholawat"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TahlilActivity"
+            android:label="Tahlil"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Jadwal_kegiatanActivity"
+            android:label="Jadwal Kegiatan"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TasbihActivity"
+            android:label="Tasbih"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activity.QuranActivity"
+            android:label="Al-Quran"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".kiblat.KiblatActivity"
+            android:label="Kiblat"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Waktu_sholatActivity"
+            android:label="Waktu Sholat"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".NotifikasiActivity"
+            android:label="News"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ScannerFloorActivity"
+            android:label="Scann Qr-Code"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activity.IsiQuranActivity"
+            android:label="Al-fatihah"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".IsiSholawatActivity"
+            android:label="Sholawat"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".IsiTahlilActivity"
+            android:label="Tahlil"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ChannelActivity"
+            android:label="Channel"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CommunityActivity"
+            android:label="Channel"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Community_twoActivity"
+            android:label="Channel"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Community_threeActivity"
+            android:label="Channel"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Community_fourActivity"
+            android:label="Channel"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Hasil_donasiActivity"
+            android:label="Donasi"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CommunityMessageActivity"
+            android:label="Channel"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".SettingActivity"
+            android:label="Setting"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Daftar_santriActivity"
+            android:label="Daftar Santri"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PonpesnewsActivity"
+            android:label="Ponpes News"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Detail_inboxActivity"
+            android:label="Detail Inbox"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>
