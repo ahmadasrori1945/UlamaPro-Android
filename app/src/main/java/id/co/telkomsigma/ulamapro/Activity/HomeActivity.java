@@ -256,6 +256,8 @@ public class HomeActivity extends AppCompatActivity {
 //            }
 //        });
 
+
+
         initLocation();
     }
     private void initLocation(){txtLoc.setText(sess.getCity()+" , "+sess.getCountry()); }
@@ -266,6 +268,8 @@ public class HomeActivity extends AppCompatActivity {
 
 //        AutoUpdater au = new AutoUpdater(HomeActivity.this);
 //        au.cekServer();
+
+
 
         long mLocTrackingInterval = 1000 *10;
         float trackingDistance = 15;
