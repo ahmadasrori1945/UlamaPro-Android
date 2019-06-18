@@ -122,8 +122,8 @@ public class HomeActivity extends AppCompatActivity {
         txtSolatTime.setTypeface(fontbold);
         txtSolatTimeName = (TextView) findViewById(R.id.text_sholatjadwal);
         txtSolatTimeName.setTypeface(fontbold);
-//        txtTime = (TextView) findViewById(R.id.waktu_solat);
-//        txtTime.setTypeface(fontbold);
+        txtTime = (TextView) findViewById(R.id.countdown);
+        txtTime.setTypeface(fontbold);
         TextView alquran = (TextView) findViewById(R.id.text_alquran);
         alquran.setTypeface(fontbold);
         TextView channel = (TextView) findViewById(R.id.text_channel);
@@ -526,7 +526,7 @@ public class HomeActivity extends AppCompatActivity {
                         long minutes = diff / (60 * 1000);
                         diff -= minutes * (60 * 1000);
                         long seconds = diff / 1000;
-                        txtTime.setText("-" + String.format("%02d", hours) + " : " + String.format("%02d", minutes) + " : " + String.format("%02d", seconds));
+                        txtTime.setText("( "+"- " + String.format("%02d", hours) + " : " + String.format("%02d", minutes) + " : " + String.format("%02d", seconds)+")");
 //                        txtHour.setText("" + String.format("%02d", hours));
 //                        txtMinute.setText(""  + String.format("%02d", minutes));
 //                        txtSecond.setText(""  + String.format("%02d", seconds));

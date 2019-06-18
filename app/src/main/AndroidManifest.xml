@@ -23,8 +23,8 @@
         android:theme="@style/AppTheme.NoActionBar"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".KIblatWebActivity"></activity>
-        <!-- <activity android:name=".SholawatActivity"></activity> -->
+        <activity android:name=".Activity.ChannelActivityNew"></activity>
+        <activity android:name=".KIblatWebActivity" /> <!-- <activity android:name=".SholawatActivity"></activity> -->
         <activity android:name=".SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
